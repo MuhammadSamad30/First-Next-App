@@ -28,6 +28,9 @@ body {
 
 #nav{
   background-color: #171717;
+  border: 1px solid #ededed ;
+  border-radius: 50px;
+  margin: 10px;
   color: #fff;
   display: flex;
   justify-content: space-evenly;
